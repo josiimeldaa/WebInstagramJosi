@@ -1,2 +1,2 @@
-# WebInstagramJosi
+# WebInstagramSintak
 Created with CodeSandbox
